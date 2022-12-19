@@ -69,6 +69,11 @@ header .deskripsi {
     margin: 25px auto;
 }
 
+/* .test{
+  margin-left: 10%;
+  margin-right: 10%;
+} */
+
 nav.menu ul {
     overflow: hidden;
     color: #fff;
@@ -169,6 +174,7 @@ nav.menu ul a:hover {
 
 .conteudo p:last-child {
     margin: 0;
+    text-align: justify;
 }
 
 .conteudo .continue-lendo {
